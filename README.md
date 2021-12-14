@@ -14,3 +14,4 @@ The prop was designed simply by the merging of two geometries: a rectangle with 
 
 Besides prop shape, the program takes in important variables that may change depending on your own design criteria and conditions.
 1. 
+ 
