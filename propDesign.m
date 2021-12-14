@@ -20,7 +20,7 @@ MDD = 0.8;
 %% 1. Determine Maximum Engine Power Output at the design
 Condition
 % Design condition: 2550 [rev/min]; 8000 ft
-% According to Figure 2 from EAE-130B_project-1_2020.pdf
+% According to Figure 2 from EAE-130B_project-1_2020.pdf (Your max hp may be different depending on plane and alitude)
 P = 83; %hp
 Percent_max_rated = P/P_avalible;
 n1 = n * Percent_max_rated;
